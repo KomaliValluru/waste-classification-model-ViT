@@ -1,6 +1,6 @@
 # AI based Garbage Waste-Classification model built on ViT
 ## Overview
-This AI-based garbage waste classification model utilizes Vision Transformer (ViT) architecture for image classification. Trained on the Garbage Classification dataset from Kaggle, it boasts an impressive accuracy of 98%. The model excels in categorizing various waste types, including Battery, Biological, Brown-grass, Cardboard, Clothes, Green-Glass, Metal, Paper, Plastic, Shoes, Trash, and White-Glass.<br>
+This AI-based garbage waste classification model utilizes Vision Transformer (ViT) architecture for image classification. Trained on the Garbage Classification dataset from Kaggle, it boasts an impressive accuracy of 98%. The model excels in classifying various waste types, including Battery, Biological, Brown-grass, Cardboard, Clothes, Green-Glass, Metal, Paper, Plastic, Shoes, Trash, and White-Glass.<br>
 ## Model Details
 **Architecture:** Image Classification model built on ViT.<br>
 **Base Model:**  ViT, a transformer encoder model trained on ImageNet.<br> 
