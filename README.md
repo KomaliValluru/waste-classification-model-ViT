@@ -7,8 +7,8 @@ This AI-based garbage waste classification model utilizes Vision Transformer (Vi
 **Accuracy:** Achieved 98% accuracy on the Garbage Classification dataset.<br>
 **Target classes:** Battery, Biological, Brown-grass, Cardboard, Clothes, Green-Glass, Metal, Paper, Plastic, Shoes, Trash, White-Glass.<br>
 **Hosting Platform:** Hosted on HuggingFace Spaces.<br>
-**Link to Spaces:** [HuggingFace Spaces](https://huggingface.co/spaces/watersplash/waste-classification)<br>
-**Model Link:** Available for download or fine-tuning on HuggingFace: [Model Link](https://huggingface.co/watersplash/waste-classification)<br>
+**Link to Spaces:** [HuggingFace Spaces](https://huggingface.co/spaces/komalali/waste-classification-ViT)<br>
+**Model Link:** Available for download or fine-tuning on HuggingFace: [Model Link](https://huggingface.co/komalali/waste-classification-ViT)<br>
 ## Dataset
 The model is trained on the Garbage Classification dataset, which can be accessed from Kaggle: [Garbage Classification Dataset](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)<br>
 ## Demo
